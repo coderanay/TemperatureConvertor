@@ -1,0 +1,35 @@
+#temperature {
+    background-color: #bb6879;
+}
+#temperature:hover {
+    background-color: #c7687d;
+}
+h1 {
+    font-family: sans-serif;
+    color: #70e580;
+}
+input {
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 2em;
+    color: #5a8bf4;
+    font-family: sans-serif;
+}
+::-webkit-input-placeholder {
+     color: #ccc;
+}
+:-moz-placeholder {
+     color: #ccc;  
+}
+::-moz-placeholder { 
+     color: #ccc;  
+}
+:-ms-input-placeholder {  
+     color: #ccc;  
+}
+button {
+    padding: 10px;
+    font-size: 1.2em;
+    color: #545454;
+}
